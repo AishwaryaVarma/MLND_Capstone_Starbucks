@@ -1,4 +1,4 @@
-# MLND Capstone - Starbucks Challenge
+# Starbucks-Analyze the Coffee Innovation
 
 ## Overview
 During a 30-day simulation, Starbucks sends out 10 different offers to its 17,000 customers. The transactions made by customers and offer related activities are recorded. The goal of this project is twofold: 
