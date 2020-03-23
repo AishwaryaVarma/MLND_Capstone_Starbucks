@@ -24,9 +24,8 @@ The project is developed under Python 3.7 with the following packages:
 2. [model construction and evaluation](2%20-%20modeling.ipynb)
 
 ### Documents
-1. [proposal](proposal.md)
-2. [report](report.md)
-
+1. 
+2.
 ### Data files
 [data](data)
 
