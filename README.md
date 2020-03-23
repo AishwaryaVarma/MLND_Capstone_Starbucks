@@ -22,10 +22,10 @@ The project is developed under Python 3.7 with the following packages:
 ### Notebooks
 1. [data preparation](1%20-%20data%20preparation.ipynb)
 2. [model construction and evaluation](2%20-%20modeling.ipynb)
-
+C:\Users\HP Spectre\Downloads\ML-Engineer Capstone.docx- [report]
 ### Documents
-1. 
-2.
+1. C:\Users\HP Spectre\Documents\Capstone_Proposal- Starbucks-Analyze the Coffee innovation .pdf[proposal]
+2.C:\Users\HP Spectre\Downloads\ML-Engineer Capstone.docx- [report]
 ### Data files
 [data](data)
 
